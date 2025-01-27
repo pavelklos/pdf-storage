@@ -1,4 +1,4 @@
-# [GitHub Pages] pdf-storage
+# pdf-storage
 
 ## Links
 
